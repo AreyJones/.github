@@ -1,6 +1,6 @@
 # Arey Jones Educational Solutions
 
-Arey Jones is the learing provider of technology solutions for K-12 school districts across the United States.
+Arey Jones is the leading provider of technology solutions for K-12 school districts across the United States.
 
 We use GitHub for application development and collaboration with our customers. Contact us at marketing@areyjones.com and let's collaborate!
 
